@@ -10,6 +10,9 @@ def to_upper(names):
     for name in names:
         result.append(name.upper())
     return result
+# Written by: Munirah (task 1)
+def count_names(names):
+    return len(names)
 
 # ===== Each student adds her function ABOVE this line =====
 
