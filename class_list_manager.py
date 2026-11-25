@@ -22,7 +22,7 @@ def main():
     print("Uppercase names:", to_upper(names))
 
     # Each student calls her function here, for example:
-    # print("Number of names:", count_names(names))
+    print("Number of names:", count_names(names))
 
 main()
 
